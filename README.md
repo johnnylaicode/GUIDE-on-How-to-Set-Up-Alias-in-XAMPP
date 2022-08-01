@@ -45,7 +45,7 @@ Alias /photos/ "C:/image-store/public/photos/"
 
 With the above alias configuration, if the client's request URL is `https://www.<website name>/photos/pic123.jpg`, the server automatically translates it to `C:/image-store/public/photos/pic123.jpg` and retrieves the requested resource of `pic123.jpg`.
 
-#### Step 3: Update httpd.conf File
+### Step 3: Update the "httpd.conf" File
 The next step in the process is to update the `httpd.conf` file in XAMPP.
 
 Open the file: `C:\xampp\apache\conf\httpd.conf`
@@ -54,9 +54,10 @@ Add the following line to the end of file: `Include "conf/alias/*"`
 
 Then save the file.
 
-#### Step 4: Restart XAMPP
+### Step 4: Restart XAMPP
 Lastly, restart the XAMPP to activate the alias capability.
 
+----------
 [Web Link](https://johnnylaicode.github.io/TECH-NOTE-How-to-Set-Up-Alias-in-XAMPP)
 
 [GibHub Link](https://github.com/johnnylaicode/TECH-NOTE-How-to-Set-Up-Alias-in-XAMPP)
