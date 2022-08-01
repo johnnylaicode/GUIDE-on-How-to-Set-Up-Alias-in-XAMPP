@@ -1,5 +1,5 @@
-# TECH-NOTE-How-to-Set-Up-Alias-in-XAMPP
-This technical note describes how to set up alias in XAMPP. 
+# GUIDE-on-How-to-Set-Up-Alias-in-XAMPP
+This technical guide describes how to set up alias in XAMPP. 
 
 XAMPP is a popular open-source PHP development environment, containing Apache, MariaDB, PHP, and Perl ([website](https://www.apachefriends.org/)).
 
