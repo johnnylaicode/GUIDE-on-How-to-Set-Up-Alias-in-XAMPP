@@ -43,7 +43,7 @@ Alias /photos/ "C:/image-store/public/photos/"
 </Directory>
 ```
 
-With this alias configuration, if the client's request URL is `https://www.<website name>/photos/pic123.jpg`, the server automatically translates it to `C:/image-store/public/photos/pic123.jpg`.
+With the above alias configuration, if the client's request URL is `https://www.<website name>/photos/pic123.jpg`, the server automatically translates it to `C:/image-store/public/photos/pic123.jpg` and retrieves the requested resource of `pic123.jpg`.
 
 #### Step 3: Update httpd.conf File
 The next step in the process is to update the `httpd.conf` file in XAMPP.
