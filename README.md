@@ -58,6 +58,6 @@ Then save the file.
 Lastly, restart the XAMPP to activate the alias capability.
 
 ----------
-[Web Link](https://johnnylaicode.github.io/TECH-NOTE-How-to-Set-Up-Alias-in-XAMPP)
+[Web Link](https://johnnylaicode.github.io/GUIDE-on-How-to-Set-Up-Alias-in-XAMPP)
 
-[GitHub Link](https://github.com/johnnylaicode/TECH-NOTE-How-to-Set-Up-Alias-in-XAMPP)
+[GitHub Link](https://github.com/johnnylaicode/GUIDE-on-How-to-Set-Up-Alias-in-XAMPP)
