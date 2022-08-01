@@ -32,7 +32,6 @@ Alias /photos/ "C:/image-store/public/photos/"
     Allow from all
 </Directory>
 ```
-
 #### Configuration File for New Version of XAMPP
 For a new version of XAMPP, such as version 8.0, the `photos.conf` file content would be:
 ```
